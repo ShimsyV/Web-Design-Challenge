@@ -29,12 +29,9 @@ body{
     background-color:#E7E7E7 !important; 
   }
   a{
-    color: #6D8092;
-    font-size: 18 px; 
+    color: #f4f6f8;
+    font-size: 20 px; 
   }
-  .nav-link:hover{
-   /* background-color:#E7E7E7 !important;*/
-   }
   
   .navbar-brand:hover{
   color: rgb(175, 175, 175) !important;
@@ -46,6 +43,15 @@ body{
 
   h1{
     color: #189cc4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  h4{
+    color: #189cc4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  p{
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
