@@ -14,13 +14,13 @@ body{
    }
 
   .navbar{
-      background-color: white; 
+    /*background-color: white; */
     font-size: 15px; 
   }
 
   
   .active, .dropdown-menu .dropdown-item:active a:hover{
-    background-color:#E7E7E7!important; 
+    /* background-color:#E7E7E7!important;*/ 
 
   }
   .dropdown-item{
@@ -31,14 +31,23 @@ body{
   }
   a{
     color: #6D8092;
-    font-size: 20px; 
+    font-size: 18 px; 
   }
   .nav-link:hover{
-    background-color:#E7E7E7 !important;
+   /* background-color:#E7E7E7 !important;*/
    }
   
   .navbar-brand:hover{
   color: rgb(175, 175, 175) !important;
   }
 
+  .white {
+    background: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+
+  
  
