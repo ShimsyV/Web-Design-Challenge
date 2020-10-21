@@ -43,11 +43,21 @@ body{
 
   .white {
     background: white;
+  }
+
+  h1{
+    color: #189cc4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .margin{
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 100px;
     margin-left: 100px;
   }
 
-  
+  .padbox{
+    padding: 100px;
+  }
  
